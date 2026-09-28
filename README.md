@@ -41,7 +41,7 @@ Contributed to advanced repository scaffolding layers across 3 major internal pr
 * Measurable Outcomes: Achieved richer AI prompt context regularizations, accelerated contributor onboarding velocity, enforced modular maintainability, and built reliable architectural consistency.
 
 #### 📊 Scaffolding Context Infrastructure
-![Scaffolding Architecture](assets/scaffolding-architecture.png)
+![Scaffolding Architecture](Media/scaffolding-architecture.png)
 
 ---
 
@@ -53,7 +53,7 @@ Conducted an intensive investigation into an active production issue affecting r
 * Audit Transparency Engine: Configured the processing loop to dynamically isolate anomalies, trace logical duplicate keys (38 rows flagged), track exactly 10 missing data files, and compile findings into a clean formatted spreadsheet report (missing_records.xlsx) for remediation handovers.
 
 #### 📈 Python Large-Data Validation Metrics
-![Validation Output](assets/python-validation-output.png)
+![Validation Output](Media/python-validation-output.png)
 
 ---
 

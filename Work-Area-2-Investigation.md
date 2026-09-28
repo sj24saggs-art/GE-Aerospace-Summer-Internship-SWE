@@ -30,7 +30,7 @@ To ensure the proposed query changes worked perfectly without breaking existing 
 ### 📈 Script Execution & Validation Metrics
 The validation script processed a massive dataset through automated cleaning, normalization, and auditing filters. All execution pipeline metrics were logged directly to the console dashboard:
 
-![Python Validation Telemetry Log](assets/python-validation-output.png)
+![Python Validation Telemetry Log](Media/python-validation-output.png)
 
 The script successfully isolated all data gaps and automatically generated a targeted audit spreadsheet (`missing_records.xlsx`) containing the mismatched items for the engineering team to review.
 

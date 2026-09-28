@@ -44,7 +44,7 @@ Define Scope &   ──→    Create     ──→   Add to Root   ──→   D
 
 The following diagram maps out how the structured instruction layers integrate with the core multi-stack components of the repository:
 
-![Scaffolding System Architecture](assets/scaffolding-architecture.png)
+![Scaffolding System Architecture](Media/scaffolding-architecture.png)
 
 ---
 
