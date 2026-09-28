@@ -71,10 +71,3 @@ This repository documents proven technical capabilities mapped against enterpris
 * Forensic Root Cause Analysis (RCA): Decomposing production query behaviors, handling missing database associations, and fixing data isolation leaks.
 * High-Volume Data Auditing: Building high-throughput comparison engines to process multi-million-row matrices with zero data loss.
 * Enterprise Governance Processes: Executing standard operating procedures (SOPs) and cross-timezone stakeholder reporting arrays.
-
----
-
-## 📜 Corporate Issuance
-* Signing Executive: Neerja Bhardwaj (Executive – Country HR Business Partner, India)
-* Issuing Body: GE India Industrial Pvt. Ltd., Bangalore
-* Official Date: 18th August 2026
